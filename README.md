@@ -23,7 +23,8 @@
         16 18 20 22 24 26 28 30 32 
                 
 ### Answer
-[Tap.this.ForTheAnswer(question2);](/src/main/java/com/blackflower/firstmidterm/SecondQuestion.java)
+- [Tap.this.ForTheAnswer(question2-1_Code);](/src/main/java/com/blackflower/firstmidterm/SecondQuestion.java)
+- [Tap.this.ForTheAnswer(question2-2_Flowchart);](/src/main/java/com/blackflower/firstmidterm/SecondQuestion_Flowchart.png)
 
 ### Third Question
  Find the output of the code below.
