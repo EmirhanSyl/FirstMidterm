@@ -12,6 +12,7 @@
 ### Answer
 [Tap.this.ForTheAnswer(question1);](/src/main/java/com/blackflower/firstmidterm/FirstQuestion.java)
 
+---
 
 ### Second Question
  Design an algorithm that produces the output below and draw the flowchart of the algorithm. Each print statement can contain only one number. (Using more than 3 print statement is prohibited.)
@@ -25,6 +26,8 @@
 ### Answer
 - [Tap.this.ForTheAnswer(question2-1_Code);](/src/main/java/com/blackflower/firstmidterm/SecondQuestion.java)
 - [Tap.this.ForTheAnswer(question2-2_Flowchart);](/src/main/java/com/blackflower/firstmidterm/SecondQuestion_Flowchart.png)
+
+---
 
 ### Third Question
  Find the output of the code below.
@@ -46,6 +49,8 @@
 ### Answer
 [Tap.this.ForTheAnswer(question3);](/src/main/java/com/blackflower/firstmidterm/ThirdQuestion.java)
 
+---
+
 ### Fourth Question
  Design an Employee Class that has integer salary, advancePayment1 and advancePayment2 properties.
  
@@ -61,6 +66,7 @@
 - [Tap.this.ForTheAnswer(question4-1_Employee);](/src/main/java/com/blackflower/firstmidterm/Employee.java)
 - [Tap.this.ForTheAnswer(question4-2_Test);](/src/main/java/com/blackflower/firstmidterm/Test.java)
 
+---
 
 ### Fifth Question
  Explain the following concepts.
@@ -70,4 +76,6 @@
 ### Answer
 
 - Labelled breaks are used for stopping out-of-scope loops. The outer scope loops can be break from inner loops using labeled breaks. However, These type of structures might break the standard execution order of code. So, Labeled breaks must be use carefuly.
-- 
+- Advantages of pseudo-code (Possible answers)
+> - it is fairly easy to understand, even for non-programmers
+> - it can be quickly and easily converted into an actual programming language as it is similar to a programming language
