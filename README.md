@@ -26,19 +26,38 @@
 [Tap.this.ForTheAnswer(question2);](/src/main/java/com/blackflower/firstmidterm/SecondQuestion.java)
 
 ### Third Question
- Design an algorithm that calculates the duration between given two times containing hour and minute information. (Take separate inputs fır hour and minute as int type)
+ Find the output of the code below.
  
- Example((11:12,13:06) should return 1 hour(s) and 54 minutes,</br>
-                (15:30, 17:40) should return 2 hour(s) and 10 minutes).
-                
-### Answer
-[Tap.this.ForTheAnswer(question1);](/src/main/java/com/blackflower/firstmidterm/FirstQuestion.java)
+  ```java
+        int y = 5;
+        int x = 1;
+        int z = 0;
 
-### First Question
- Design an algorithm that calculates the duration between given two times containing hour and minute information. (Take separate inputs fır hour and minute as int type)
- 
- Example((11:12,13:06) should return 1 hour(s) and 54 minutes,</br>
-                (15:30, 17:40) should return 2 hour(s) and 10 minutes).
+        while (z < 12) {
+            if (x >= (y >> 1)) {
+                System.out.println("x: " + x + " y: " + y + " z: " + z);
+            }
+            z = (3 * x++) + y--;
+        }
+        System.out.println("x: " + x + " y: " + y + " z: " + z);
+  ```
                 
 ### Answer
-[Tap.this.ForTheAnswer(question1);](/src/main/java/com/blackflower/firstmidterm/FirstQuestion.java)
+[Tap.this.ForTheAnswer(question3);](/src/main/java/com/blackflower/firstmidterm/ThirdQuestion.java)
+
+### Fourth Question
+ Design an Employee Class that has integer salary, advancePayment1 and advancePayment2 properties.
+ 
+ Create checkAdvanceAmount method that
+ - takes pAdvancePayment1 and pAdvancePayment2 parameters and
+ - assing them to related instance variables and
+ - checks whether the total of advance payments axceeds the employee's salary and returns true or false
+ 
+ Create a test class to test the return value of the method of the objects.
+ 
+                
+### Answer
+[Tap.this.ForTheAnswer(question4-1_Employee);](/src/main/java/com/blackflower/firstmidterm/Employee.java)
+[Tap.this.ForTheAnswer(question4-2_Test);](/src/main/java/com/blackflower/firstmidterm/Test.java)
+
+
