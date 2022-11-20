@@ -57,7 +57,16 @@
  
                 
 ### Answer
-[Tap.this.ForTheAnswer(question4-1_Employee);](/src/main/java/com/blackflower/firstmidterm/Employee.java)
-[Tap.this.ForTheAnswer(question4-2_Test);](/src/main/java/com/blackflower/firstmidterm/Test.java)
+- [Tap.this.ForTheAnswer(question4-1_Employee);](/src/main/java/com/blackflower/firstmidterm/Employee.java)
+- [Tap.this.ForTheAnswer(question4-2_Test);](/src/main/java/com/blackflower/firstmidterm/Test.java)
 
 
+### Fifth Question
+ Explain the following concepts.
+ - What is the main responsibility and advantage of the labeled break?
+ - Two main advantages of pseudo-code
+                
+### Answer
+
+- Labelled breaks are used for stopping out-of-scope loops. The outer scope loops can be break from inner loops using labeled breaks. However, These type of structures might break the standard execution order of code. So, Labeled breaks must be use carefuly.
+- 
